@@ -1,10 +1,6 @@
 package com.mamt.obj2tileset;
+import com.mamt.lm3d.Degree3;
 
-
-/**
- * Hello world!
- *
- */
 public class ModelLab {
 	/**
 	 * 设置或获取剔除模型名称（类型）关键字
